@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7dec1f3e-9de2-4e81-9510-89755404dc41" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2v329qy7BGWY8mLuV82RGHKlC3b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ALL_Patient_Info.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ambulance (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ambulance (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ambulance (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ambulance (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ambulance (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ambulance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Department.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Employee_info (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Employee_info.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Login (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Login.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NEW_PATIENT.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reception (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reception (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reception (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reception (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reception (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Room (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Room.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchRoom (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchRoom (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchRoom (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchRoom (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchRoom (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchRoom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patient_discharge (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.patient_discharge (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.patient_discharge (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.patient_discharge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.update_patient_details (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.update_patient_details (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.update_patient_details.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/Downloads/ResultSet2xml.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Login">
+    <configuration name="Department" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hospital.management.system.Department" />
+      <module name="Hospital Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hospital.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hospital.management.system.Login" />
+      <module name="Hospital Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hospital.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NEW_PATIENT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hospital.management.system.NEW_PATIENT" />
+      <module name="Hospital Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hospital.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hospital.management.system.Reception" />
+      <module name="Hospital Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hospital.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hospital.management.system.SearchRoom" />
+      <module name="Hospital Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hospital.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.NEW_PATIENT" />
+        <item itemvalue="Application.Department" />
+        <item itemvalue="Application.Reception" />
+        <item itemvalue="Application.SearchRoom" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dec1f3e-9de2-4e81-9510-89755404dc41" name="Changes" comment="" />
+      <created>1743359296610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743359296610</updated>
+      <workItem from="1743359298032" duration="9924000" />
+      <workItem from="1743418684409" duration="2144000" />
+      <workItem from="1743424950982" duration="7137000" />
+      <workItem from="1743435833018" duration="16666000" />
+      <workItem from="1743483822703" duration="6859000" />
+      <workItem from="1743529261538" duration="9520000" />
+      <workItem from="1743578452585" duration="4625000" />
+      <workItem from="1743605149766" duration="9313000" />
+      <workItem from="1743620236948" duration="24000" />
+      <workItem from="1744322953924" duration="86000" />
+      <workItem from="1744657211644" duration="4878000" />
+      <workItem from="1745077999512" duration="135000" />
+      <workItem from="1745078277801" duration="447000" />
+      <workItem from="1745183179714" duration="628000" />
+      <workItem from="1745235574357" duration="1552000" />
+      <workItem from="1745237155359" duration="283000" />
+      <workItem from="1745239532554" duration="882000" />
+      <workItem from="1745356064906" duration="2599000" />
+      <workItem from="1745382000017" duration="570000" />
+      <workItem from="1745404907009" duration="2178000" />
+      <workItem from="1745414068037" duration="1479000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hospital/management/system/Ambulance.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
